@@ -1,0 +1,9 @@
+pip install SpeechRecognition
+pip install pyttsx3
+brew install portaudio
+pip install PyAudio
+pip install pywhatkit
+pip install wikipedia
+pip install pyjokes
+pip install python-weather
+pip install wolframalpha
